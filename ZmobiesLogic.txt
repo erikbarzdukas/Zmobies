@@ -1,0 +1,31 @@
+Logic for Zmobies
+
+Scene
+-def enter
+
+    Death
+    -Dic of quips
+    -Randomly return a quip
+
+    Freezer
+    -Open the game
+    -Generate random keylock
+    -Have player guess combo
+    
+    Kitchen
+    -Set the scene
+    -Rummage for a tools
+    --Knife & keys specifically, maybe more later
+    -Continue
+    
+    DiningArea
+    -Combat Zmobie
+    
+    ParkingLot
+    -Guess the right key for the car.
+    
+MapClass
+-establish game flow
+
+Engine
+-Run the game!
